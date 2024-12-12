@@ -2,13 +2,15 @@
 
 This project demonstrates the application of data science methodologies to analyze Walmart's sales data. The primary goals include data preprocessing, exploratory data analysis (EDA), and visualizing key trends and patterns in sales performance across stores and time periods.
 
-## Features
+## Features:
+
 ### Data Preprocessing:
 
 Handled missing values and duplicates.
 Converted date columns to datetime format.
 Extracted additional features like year and month from dates.
-Exploratory Data Analysis:
+
+### Exploratory Data Analysis:
 
 Visualized sales trends over the years and months.
 Identified stores with the highest sales and standard deviations.
@@ -20,4 +22,5 @@ Explored correlations between sales and numeric features (e.g., temperature, fue
 Created plots using Plotly for a detailed, interactive analysis of trends.
 Included bar charts, area charts, and scatter plots.
 
-Dataset Link: https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores
+#### Dataset Link:
+https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores
