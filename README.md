@@ -6,21 +6,21 @@ This project demonstrates the application of data science methodologies to analy
 
 ### Data Preprocessing:
 
-Handled missing values and duplicates.
-Converted date columns to datetime format.
-Extracted additional features like year and month from dates.
+- Handled missing values and duplicates.
+- Converted date columns to datetime format.
+- Extracted additional features like year and month from dates.
 
 ### Exploratory Data Analysis:
 
-Visualized sales trends over the years and months.
-Identified stores with the highest sales and standard deviations.
-Analyzed the impact of holidays and seasons on sales.
-Explored correlations between sales and numeric features (e.g., temperature, fuel price, CPI).
+- Visualized sales trends over the years and months.
+- Identified stores with the highest sales and standard deviations.
+- Analyzed the impact of holidays and seasons on sales.
+- Explored correlations between sales and numeric features (e.g., temperature, fuel price, CPI).
 
 ### Interactive Visualizations:
 
-Created plots using Plotly for a detailed, interactive analysis of trends.
-Included bar charts, area charts, and scatter plots.
+- Created plots using Plotly for a detailed, interactive analysis of trends.
+= Included bar charts, area charts, and scatter plots.
 
 #### Dataset Link:
 https://www.kaggle.com/datasets/varsharam/walmart-sales-dataset-of-45stores
